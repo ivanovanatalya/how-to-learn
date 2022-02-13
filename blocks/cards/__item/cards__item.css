@@ -1,11 +1,9 @@
 .cards__item {
-  width: 250px;
+  width: 240px;
   margin-top: 60px;
-  margin-right: 100px; /*поправить*/
+  margin-right: 100px;
 }
-/*.cards__item:first-child {
-  margin-left: 0;
-}*/
+
 .cards__item:nth-child(3) {
   margin-right:  0;
 }
