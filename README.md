@@ -1,7 +1,7 @@
 ### Проект how-to-lean
-#### Проект одностраничного сайта подготовлен в рамках обучения на курсе *[веб-разработчик Яндекс.Практикум] (https://practicum.yandex.ru/web/?utm_source=practicum&utm_medium=email&utm_campaign=sendr-597315)*
+#### Проект одностраничного сайта подготовлен в рамках обучения на курсе *![веб-разработчик Яндекс.Практикум] (https://practicum.yandex.ru/web/?utm_source=practicum&utm_medium=email&utm_campaign=sendr-597315)*
 
-[Проектная работа опубликована на GitHubPage и доступна по ссылке] (https://github.com/ivanovanatalya/how-to-learn/blob/main/index.html)
+![Проектная работа опубликована на GitHubPage и доступна по ссылке] (https://github.com/ivanovanatalya/how-to-learn/blob/main/index.html)
 
 #### Технологии:
 ![HTML5](https://img.shields.io/badge/html5-36465D.svg?style=for-the-badge&logo=html5&logoColor=8FD337)
@@ -19,4 +19,3 @@
 * рефакторинг кода,
 * подключение других шрифтов,
 * проверка кода на кроссбраузерность.
-* [Проектная работа опубликована на GitHubPage и доступна по ссылке] (https://ivanovanatalya.github.io/russian-travel/index.html)
