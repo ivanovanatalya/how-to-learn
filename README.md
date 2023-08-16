@@ -1,9 +1,15 @@
 ### Проект how-to-lean
+<<<<<<< HEAD
 
 #### Проект одностраничного сайта подготовлен в рамках обучения на курсе *[веб-разработчик Яндекс.Практикум](https://practicum.yandex.ru/web/?utm_source=practicum&utm_medium=email&utm_campaign=sendr-597315)*
 
 Проектная работа опубликована на GitHubPage и доступна по [ссылке](https://github.com/ivanovanatalya/how-to-learn/blob/main/index.html)
 
+=======
+#### Проект одностраничного сайта подготовлен в рамках обучения на курсе *![веб-разработчик Яндекс.Практикум] (https://practicum.yandex.ru/web/?utm_source=practicum&utm_medium=email&utm_campaign=sendr-597315)*
+
+![Проектная работа опубликована на GitHubPage и доступна по ссылке] (https://github.com/ivanovanatalya/how-to-learn/blob/main/index.html)
+>>>>>>> 9943ea0cf101fb5b2252f3f01436ed8a56945fdc
 
 #### Технологии:
 ![HTML5](https://img.shields.io/badge/html5-36465D.svg?style=for-the-badge&logo=html5&logoColor=8FD337)
